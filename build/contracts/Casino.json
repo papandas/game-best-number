@@ -7707,10 +7707,10 @@
     "version": "0.4.21+commit.dfe3193c.Emscripten.clang"
   },
   "networks": {
-    "5777": {
+    "4": {
       "events": {},
       "links": {},
-      "address": "0x6832330078d02288081f151d6bbf7050e2fc2a83",
+      "address": "0x5ede43BC94E9850B692B5C7A99CaC2Aa6151652c",
       "transactionHash": "0x4246d1767ff59dcee5b7292bda3b6baaace36b1e5d20a1d2b5921b5234d55374"
     }
   },

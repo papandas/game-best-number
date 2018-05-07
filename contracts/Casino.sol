@@ -56,6 +56,7 @@ contract Casino {
         uint256 numberGenerated = block.number % 10 + 1;
         //uint256 numberGenerated = uint( block.blockhash( block.number - 1 ) ) % 10 + 1;
         distributePrizes(numberGenerated);
+        //return numberGenerated;
     }
 
     function distributePrizes(uint256 winNum) public {
